@@ -1,0 +1,22 @@
+1 :
+ npx  create-next-app@latest .
+ npm i mongoose react-icons
+
+
+ error :
+Fast Refresh had to perform a full reload due to a runtime error.
+<w> [webpack.cache.PackFileCacheStrategy]
+= 
+
+test_crud --> postman and mongodb
+post // json // //body --> raw // send
+    
+   --> await Topic.create({title, description});
+{
+    "title" : "CSS" ,
+    "description" : "A markup language for websites."
+}
+
+delete // params // key id // value // send
+get // send
+
